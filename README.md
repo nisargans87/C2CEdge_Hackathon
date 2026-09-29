@@ -2,6 +2,19 @@
 
 > **Think Before You Trust. Verify Before You Share.**
 
+## 🏆 Hackathon Project
+
+Developed in **6.5 hours** during **C2C Edge Mysore Tech Habba - 2026**. **#TeamSSFGC** participated through a nomination from our college.
+
+### Team
+
+| Role | Member |
+| --- | --- |
+| **Team Lead** | **Nisarga NS** |
+| Team Member | Sanika M |
+| Team Member | Poorvika SM |
+| Team Member | Likitha Singh R |
+
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Groq](https://img.shields.io/badge/AI-Groq-F55036?style=for-the-badge)
@@ -9,13 +22,11 @@
 
 ## 🧭 Quick Navigation
 
-[Overview](#-overview) · [Features](#-key-features) · [Technology Stack](#-technology-stack) · [Workflow](#-system-workflow) · [Installation](#-installation) · [Team](#-team)
+[Hackathon Project](#-hackathon-project) · [Overview](#-overview) · [Features](#-key-features) · [Technology Stack](#-technology-stack) · [Workflow](#-system-workflow) · [Installation](#-installation) · [Team](#-team)
 
 ## 📌 Overview
 
 FakeBreak AI News Verification Bot is a Python-based Telegram chatbot for AI-assisted verification of news screenshots and images. Users send an image to the bot, which analyzes the visible content with a vision-language model and returns a structured report containing a claim assessment, confidence value, reasoning, contextual information, and related sources when provided by the model.
-
-This project was developed in **6.5 hours** during the hackathon conducted by **C2C Edge Mysore Tech Habba - 2026**. Our team, **#TeamSSFGC**, participated through a nomination from our college.
 
 ## 🚨 Problem Statement
 
@@ -227,7 +238,7 @@ This project demonstrates asynchronous Telegram handlers, environment-variable c
 
 **#TeamSSFGC**
 
-- Nisarga Ns
+- **Nisarga NS** — Team Lead
 - Sanika M
 - Poorvika SM
 - Likitha Singh R
